@@ -37,8 +37,8 @@ function dui(a) {
 WeixinApi.ready(function(a) {
     var b = {
         appId:"",
-        imgUrl:"http://tomi.in/face/style/head.png",
-        link:"http://tomi.in/face",
+        imgUrl:"http://tommyfok.github.io/weixin-avatar/example/01.PNG",
+        link:"http://tommyfok.github.io/weixin-avatar/",
         desc:document.description || "温馨提示：如过度使用本程序导致被好友拉黑，作者概不负责。",
         title:document.title || "调戏好友的正确姿势"
     };
