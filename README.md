@@ -8,8 +8,8 @@ Just visit [PlayGround](http://tommyfok.github.io/weixin-avatar/)
 
 ##Examples
 ![Example_01]
-(https://tommyfok.github.io/weixin-avatar/example/01.png)
+(http://tommyfok.github.io/weixin-avatar/example/01.PNG)
 ![Example_02]
-(https://tommyfok.github.io/weixin-avatar/example/02.png)
+(http://tommyfok.github.io/weixin-avatar/example/02.PNG)
 ![Example_03]
-(https://tommyfok.github.io/weixin-avatar/example/03.png)
+(http://tommyfok.github.io/weixin-avatar/example/03.PNG)
